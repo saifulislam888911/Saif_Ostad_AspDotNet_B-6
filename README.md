@@ -5,17 +5,9 @@ This repo is being used for Class-Works and Assignments and Live-Tests (From Ost
 # Module-0 :
 Title : 
  
-# class-0 :
-Topic : 
-
-
-# support-class-0 :
-Topic : 
-
-
-# Exam Week-0 : 
+ 
+ # Exam Week-0 : 
 (Assignment on Exam-Week-0)
-(Live Test on Exam-Week-0)
 
 
 # Assignment-0 :
@@ -23,14 +15,6 @@ Requirements / Questions :
 
 # Project :
 Title : 
-
-Summary : 
-
-
-# Live-Test-0 :
-Questions : 
-
-Topic : 
 
 Summary : 
 
